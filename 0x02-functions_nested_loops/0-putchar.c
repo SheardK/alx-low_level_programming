@@ -1,5 +1,11 @@
 #include "main.h"
 
+/**
+*main print _putchar
+*is written by harvy
+*Return
+*/
+
 int main(void)
 {
 _putchar('_');
